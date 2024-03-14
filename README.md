@@ -15,9 +15,9 @@
 * [Trello](https://trello.com/b/vTmPvIwd/triptovoronezh)
 
 ## Документация
-* Техническое задание [(docx)](https://github.com/dansvr25/documentation/TZ.docx) [(pdf)](https://github.com/dansvr25/documentation/TZ.pdf)
-* Сопроводительное письмо [(docx)](https://github.com/dansvr25/documentation/CoveringLetter.docx) [(pdf)](https://github.com/dansvr25/documentation/CoveringLetter.pdf)
-* Оформительские требования [(pdf)](https://github.com/dansvr25/documentation/Requirements.pdf)
+* Техническое задание [(docx)](https://github.com/dansvr25/tp_guide/blob/main/documentation/TZ.docx) [(pdf)](https://github.com/dansvr25/tp_guide/blob/main/documentation/TZ.pdf)
+* Сопроводительное письмо [(docx)](https://github.com/dansvr25/tp_guide/blob/main/documentation/CoveringLetter.docx) [(pdf)](https://github.com/dansvr25/tp_guide/blob/main/documentation/CoveringLetter.pdf)
+* Оформительские требования [(pdf)](https://github.com/dansvr25/tp_guide/blob/main/documentation/Requirements.pdf)
 
 ## Презентация
 * Файл презентации [(pptx)](https://github.com/dansvr25/documentation/TPPrezentatsia.pptx) [(pdf)](https://github.com/dansvr25/documentation/TPPrezentatsia.pdf)
