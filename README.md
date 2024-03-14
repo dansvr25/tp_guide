@@ -15,10 +15,10 @@
 * [Trello](https://trello.com/b/vTmPvIwd/triptovoronezh)
 
 ## Документация
-* Техническое задание [(docx)](https://github.com/dansvr25/documentation/ТехническоеЗадание.docx) [(pdf)](https://github.com/dansvr25/documentation/ТехническоеЗадание.pdf)
-* Сопроводительное письмо [(docx)](https://github.com/dansvr25/documentation/СопроводительноеПисьмо.docx) [(pdf)](https://github.com/dansvr25/documentation/СопроводительноеПисьмо.pdf)
-* Оформительские требования [(pdf)](https://github.com/dansvr25/documentation/ОформительскиеТребования.pdf)
+* Техническое задание [(docx)](https://github.com/dansvr25/documentation/TZ.docx) [(pdf)](https://github.com/dansvr25/documentation/TZ.pdf)
+* Сопроводительное письмо [(docx)](https://github.com/dansvr25/documentation/CoveringLetter.docx) [(pdf)](https://github.com/dansvr25/documentation/CoveringLetter.pdf)
+* Оформительские требования [(pdf)](https://github.com/dansvr25/documentation/Requirements.pdf)
 
 ## Презентация
-* Файл презентации [(pptx)](https://github.com/dansvr25/documentation/TPPrezentatsia.pptx) [(pdf)](https://github.com/dansvr25/documentation/ОформительскиеТребования.pdf)
-* Видео презентации [(mov)]()
+* Файл презентации [(pptx)](https://github.com/dansvr25/documentation/TPPrezentatsia.pptx) [(pdf)](https://github.com/dansvr25/documentation/TPPrezentatsia.pdf)
+* Видео презентации [(mov)](https://drive.google.com/file/d/10jiZ0HhSwTxSl5nx94MRC2wjj6sjkSLn/view?usp=share_link)
