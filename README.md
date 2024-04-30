@@ -13,6 +13,7 @@
 ## Сервисы
 * [Miro](https://miro.com/app/board/uXjVNi_P_fA=/?share_link_id=211699850116)
 * [Trello](https://trello.com/b/vTmPvIwd/triptovoronezh)
+* [Figma](https://www.figma.com/file/iY8p0qWOHE5CVVfwAwpFFi/Remarkable-Studio-(Community)-(Copy)?type=design&node-id=0-1&mode=design&t=kDtrYwFhGnBcSXpG-0)
 
 ## Документация
 * Техническое задание [(docx)](https://github.com/dansvr25/tp_guide/blob/main/documentation/TZ.docx) [(pdf)](https://github.com/dansvr25/tp_guide/blob/main/documentation/TZ.pdf)
