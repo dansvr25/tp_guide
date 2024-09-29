@@ -1,14 +1,15 @@
-FROM maven:3.9-amazoncorretto-21 AS build
+FROM node:18 AS build
+
+EXPOSE 3000
+
 WORKDIR /app
 
-COPY pom.xml .
-COPY src ./src
+COPY package.json package-lock.json ./
 
-RUN mvn clean package -DskipTests
+RUN npm install
 
-FROM amazoncorretto:21-alpine-jdk
-WORKDIR /app
+COPY . ./
 
-COPY --from=build /app/target/*.jar app.jar
+CMD ["npm","run","dev"]
 
-ENTRYPOINT ["java","-jar","/app/app.jar"]
+
