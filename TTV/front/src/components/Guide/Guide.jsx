@@ -20,11 +20,6 @@ function Guide() {
             {guide.name}
           </h2>
           <p className="guide__text">{guide.text}</p>
-          <p className="guide__category">
-            Категория:
-            {' '}
-            {guide.category.name}
-          </p>
         </div>
       </div>
     </main>
