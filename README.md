@@ -23,3 +23,4 @@
 ## Презентация
 * Файл презентации [(pptx)](https://github.com/dansvr25/documentation/TPPrezentatsia.pptx) [(pdf)](https://github.com/dansvr25/documentation/TPPrezentatsia.pdf)
 * Видео презентации [(mov)](https://drive.google.com/file/d/10jiZ0HhSwTxSl5nx94MRC2wjj6sjkSLn/view?usp=share_link)
+* Обзор Backend [(mov)](https://drive.google.com/file/d/1_0IwauWdbhMTDEg9OQkWlugHqwtg_Wso/view?usp=sharing)
