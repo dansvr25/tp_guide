@@ -29,6 +29,7 @@
 
 ## Метрика
 ![Снимок экрана 2024-10-03 в 20 10 50](https://github.com/user-attachments/assets/113269c9-0573-4800-b956-9e3b33e313d8)
-![Uploading Снимок экрана 2024-10-03 в 20.11.15.png…]()
+![Снимок экрана 2024-10-03 в 20 11 15](https://github.com/user-attachments/assets/f5926378-b393-4965-9d44-b7dce4299b8b)
+
 
 
