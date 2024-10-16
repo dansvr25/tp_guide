@@ -21,7 +21,7 @@
 * Курсовой проект [(docx)](https://github.com/dansvr25/tp_guide/blob/main/documentation/Coursework.docx) [(pdf)](https://github.com/dansvr25/tp_guide/blob/main/documentation/Coursework.pdf)
 
 ## Презентация
-* Файл презентации [(pptx)](https://github.com/dansvr25/documentation/TPPrezentatsia.pptx) [(pdf)](https://github.com/dansvr25/documentation/TPPrezentatsia.pdf)
+* Файл презентации [(pptx)](https://github.com/dansvr25/tp_guide/blob/main/documentation/TPPrezentatsia.pptx) [(pdf)](https://github.com/dansvr25/tp_guide/blob/main/documentation/TPPrezentatsia.pdf)
 * Видео презентации [(mov)](https://drive.google.com/file/d/10jiZ0HhSwTxSl5nx94MRC2wjj6sjkSLn/view?usp=share_link)
 * Обзор Backend [(mov)](https://drive.google.com/file/d/1_0IwauWdbhMTDEg9OQkWlugHqwtg_Wso/view?usp=sharing)
 * Обзор Frontend [(mov)](https://drive.google.com/file/d/1XVKJNGHWt8qi7B7fipKIf_EneiKhMqmX/view?usp=sharing)
