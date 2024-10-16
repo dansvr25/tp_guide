@@ -18,7 +18,7 @@
 * Техническое задание [(docx)](https://github.com/dansvr25/tp_guide/blob/main/documentation/TZ.docx) [(pdf)](https://github.com/dansvr25/tp_guide/blob/main/documentation/TZ.pdf)
 * Сопроводительное письмо [(docx)](https://github.com/dansvr25/tp_guide/blob/main/documentation/CoveringLetter.docx) [(pdf)](https://github.com/dansvr25/tp_guide/blob/main/documentation/CoveringLetter.pdf)
 * Оформительские требования [(pdf)](https://github.com/dansvr25/tp_guide/blob/main/documentation/Requirements.pdf)
-* Курсовая работа [(docx)](https://github.com/dansvr25/tp_guide/blob/main/documentation/Coursework.docx)
+* Курсовой проект [(docx)](https://github.com/dansvr25/tp_guide/blob/main/documentation/Coursework.docx) [(pdf)](https://github.com/dansvr25/tp_guide/blob/main/documentation/Coursework.pdf)
 
 ## Презентация
 * Файл презентации [(pptx)](https://github.com/dansvr25/documentation/TPPrezentatsia.pptx) [(pdf)](https://github.com/dansvr25/documentation/TPPrezentatsia.pdf)
