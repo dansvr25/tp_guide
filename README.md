@@ -27,9 +27,12 @@
 * Обзор Frontend [(mov)](https://drive.google.com/file/d/1XVKJNGHWt8qi7B7fipKIf_EneiKhMqmX/view?usp=sharing)
 * Обзор приложения [(mov)](https://drive.google.com/file/d/11Z_i6RJXNYMrzYJuuaij8J-BHpUy4Ufm/view?usp=sharing)
 
-## Метрика
-![Снимок экрана 2024-10-03 в 20 10 50](https://github.com/user-attachments/assets/113269c9-0573-4800-b956-9e3b33e313d8)
-![Снимок экрана 2024-10-03 в 20 11 15](https://github.com/user-attachments/assets/f5926378-b393-4965-9d44-b7dce4299b8b)
+## Яндекс Метрика
+* Отчёт [(pdf)](https://github.com/dansvr25/tp_guide/blob/main/documentation/YandexMetrica.pdf)
+
+## Ссылка на проект
+http://triptovoronezh.ru
+
 
 
 
