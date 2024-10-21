@@ -31,7 +31,12 @@
 * Отчёт [(pdf)](https://github.com/dansvr25/tp_guide/blob/main/documentation/YandexMetrica.pdf)
 
 ## Ссылка на проект
-http://triptovoronezh.ru
+### http://triptovoronezh.ru
+
+### Тестовые данные для входа:
+* Логин (e-mail): admin@yandex.ru
+* Пароль: qwerty
+ 
 
 
 
