@@ -23,9 +23,9 @@
 ## Презентация
 * Файл презентации [(pptx)](https://github.com/dansvr25/tp_guide/blob/main/documentation/TPPrezentatsia.pptx) [(pdf)](https://github.com/dansvr25/tp_guide/blob/main/documentation/TPPrezentatsia.pdf)
 * Видео презентации [(mov)](https://drive.google.com/file/d/10jiZ0HhSwTxSl5nx94MRC2wjj6sjkSLn/view?usp=share_link)
+* Обзор приложения [(mov)](https://drive.google.com/file/d/1pUAYaalG_2R1ycnRIc6qgMlvWjOF55gi/view?usp=sharing)
 * Обзор Backend [(mov)](https://drive.google.com/file/d/1_0IwauWdbhMTDEg9OQkWlugHqwtg_Wso/view?usp=sharing)
 * Обзор Frontend [(mov)](https://drive.google.com/file/d/1XVKJNGHWt8qi7B7fipKIf_EneiKhMqmX/view?usp=sharing)
-* Обзор приложения [(mov)](https://drive.google.com/file/d/11Z_i6RJXNYMrzYJuuaij8J-BHpUy4Ufm/view?usp=sharing)
 
 ## Яндекс Метрика
 * Отчёт [(pdf)](https://github.com/dansvr25/tp_guide/blob/main/documentation/YandexMetrica.pdf)
@@ -37,7 +37,3 @@
 * Логин (e-mail): admin@yandex.ru
 * Пароль: qwerty
  
-
-
-
-
